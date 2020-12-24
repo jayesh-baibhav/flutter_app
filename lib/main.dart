@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return new SplashScreen(
       title: new Text(
-        'Welcome to Covertify- By Jayesh',
+        'Welcome to Convertify- By Jayesh',
         style: new TextStyle(fontStyle: FontStyle.italic, fontWeight: FontWeight.bold, fontSize: 20.0),
       ),
       seconds: 3,
